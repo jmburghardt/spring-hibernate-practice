@@ -9,5 +9,11 @@
 <a href="/hello/showForm">Dangerous Form</a>
 </hr>
 
+<br><br>
+
+<hr>
+<a href="/student/showForm">Student Form</a>
+</hr>
+
 </body>
 </html>

@@ -1,3 +1,5 @@
 com\warhammer\missions\mvc\SillyController.class
+com\warhammer\missions\mvc\Student.class
 com\warhammer\missions\mvc\HomeController.class
 com\warhammer\missions\mvc\HelloWorldController.class
+com\warhammer\missions\mvc\StudentController.class
