@@ -1,2 +1,0 @@
-0:0:0:0:0:0:0:1 - - [13/Aug/2020:22:35:24 -0500] "GET /student/showForm HTTP/1.1" 200 1766 http-bio-8888-exec-1 606
-0:0:0:0:0:0:0:1 - - [13/Aug/2020:22:35:30 -0500] "POST /student/processForm HTTP/1.1" 200 354 http-bio-8888-exec-2 81
